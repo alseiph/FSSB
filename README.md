@@ -18,4 +18,4 @@ The movie shows aggregates of same kaolinite clay modified by sieving out partic
 # Movie S9
 The movie shows water condensation on surfaces of both the substrate and silica particles during rewetting in a microfluidic channel. Hydration due to humidity precedes the wetting front and could weaken inter-particle bonds due to development of interfacial (repulsive) forces.  
 # Movie S10
-The movie shows water condensation on surfaces of kaolinite clay particles during rewetting in a microfluidic channel. 
+The movie shows water condensation on the surfaces of kaolinite clay particles during rewetting in a microfluidic channel. 
