@@ -1,4 +1,4 @@
-Repository for 'Formation of stable aggregates by fluid-assembled solid bridges', Seiphoori et al. (2019)
+This repository is designed for sharing the supplementary movies for the manuscript entitled: 'Formation of stable aggregates by fluid-assembled solid bridges', by Seiphoori et al. (2019).
 # Movie S1
 The movie shows a deposit formed by evaporation from a suspension of polydisperse silica spheres composed of 20, 3, and 0.4-µm particles, subject to rewetting and transport in a microfluidic channel.
 # Movie S2 
